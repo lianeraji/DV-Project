@@ -1,0 +1,15 @@
+
+xcelium.d/
+INCA_libs/
+xrun.*
+*.key
+*.log
+sim/logs/
+sim/cov_work/
+sim/waves.shm/
+sim/.simvision/
+
+
+.vscode/
+.DS_Store
+*~

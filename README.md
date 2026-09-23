@@ -59,7 +59,7 @@ Bit_Manipulation_complete/
 
 ```
 
->Is anyone reading this or am I just typing for nothing? Hi Salam and Rami?
+>Is anyone reading this or am I just typing for nothing? Hi Salam and Rami and Naser?
 
 ## 4. Running on the Cadence server
 
